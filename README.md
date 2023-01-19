@@ -15,11 +15,11 @@ Note: This may not work, but you can see the GIF below to have an idea of the ap
 
 
 Mobile View:
-![Mobile View](https://user-images.githubusercontent.com/91831652/213537174-0aab1f36-c22e-4a00-97d8-cbc322737840.gif)
+#![Mobile View](https://user-images.githubusercontent.com/91831652/213537174-0aab1f36-c22e-4a00-97d8-cbc322737840.gif)
 
 
 <!-- Height 200px -->
-<img src="GIFs/Mobile%20View.gif" alt="Mobile View" width="40%">
+<img src="[GIFs/Mobile%20View.gif](https://user-images.githubusercontent.com/91831652/213537174-0aab1f36-c22e-4a00-97d8-cbc322737840.gif)" alt="Mobile View" width="40%">
 
 ----------
 
