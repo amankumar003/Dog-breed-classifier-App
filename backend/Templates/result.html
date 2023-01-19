@@ -1,0 +1,38 @@
+<html>
+<head>
+    <title>Dog Breed Classifier</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+    <link rel="icon" type="image/png"      href={{ url_for('static', path="images/icons/dog.ico")}}/>
+    <link rel="stylesheet" type="text/css" href={{ url_for('static', path="vendor/bootstrap/css/bootstrap.min.css")}}>
+    <link rel="stylesheet" type="text/css" href={{ url_for('static', path="vendor/animate/animate.css")}}>
+    <link rel="stylesheet" type="text/css" href={{ url_for('static', path="vendor/css-hamburgers/hamburgers.min.css")}}>
+    <link rel="stylesheet" type="text/css" href={{ url_for('static', path="vendor/animsition/css/animsition.min.css")}}>
+    <link rel="stylesheet" type="text/css" href={{ url_for('static', path="vendor/select2/select2.min.css")}}>
+    <link rel="stylesheet" type="text/css" href={{ url_for('static', path="vendor/daterangepicker/daterangepicker.css")}}>
+    <link rel="stylesheet" type="text/css" href={{ url_for('static', path="css/util.css")}}>
+    <link rel="stylesheet" type="text/css" href={{ url_for('static', path="css/main.css")}}>
+</head>
+<body>
+    <div class="container-contact100">
+        <div class="wrap-contact100">
+            <a href="#"><img height="42" width="42" src={{ url_for('static', path="images/dog.png" )}}></a>
+            <a href="https://github.com/aka-vm/Dog-Breed-App" target="_blank">
+                <img src="https://img.icons8.com/ios-glyphs/40/000000/github.png"/>
+            </a>
+			<span class="contact100-form-title">Results!</span>
+            <!-- <img src="saved_image.png"> -->
+            <img src="" id="saved_image" />
+            <div class="wrap-input100 validate-input">
+            <br>
+            <br>
+            <label id="result_txt">
+            </label>
+        </div>
+        </div>
+    </div>
+<script src={{ url_for('static', path="js/show_result.js")}}></script>
+</body>
+</html>
