@@ -15,7 +15,7 @@ Note: This may not work, but you can see the GIF below to have an idea of the ap
 
 
 Mobile View:
-#![Mobile View](https://user-images.githubusercontent.com/91831652/213537174-0aab1f36-c22e-4a00-97d8-cbc322737840.gif)
+![Mobile View](https://user-images.githubusercontent.com/91831652/213537174-0aab1f36-c22e-4a00-97d8-cbc322737840.gif)
 
 
 <!-- Height 200px -->
@@ -24,7 +24,7 @@ Mobile View:
 ----------
 
 PC View:
-![image](https://user-images.githubusercontent.com/91831652/213536246-666c45b3-b350-4cb2-8454-7de664e25bd9.png)
+![image](https://user-images.githubusercontent.com/91831652/213536246-666c45b3-b350-4cb2-8454-7de664e25bd9.gif)
 
 
 ![](/GIFs/PC%20View.gif)
