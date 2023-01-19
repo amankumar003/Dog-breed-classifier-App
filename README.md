@@ -15,7 +15,8 @@ Note: This may not work, but you can see the GIF below to have an idea of the ap
 
 
 Mobile View:
-![image](https://user-images.githubusercontent.com/91831652/213536191-89cb1dcf-d187-40c1-8794-3d54ba7dcee0.png)
+![Mobile View](https://user-images.githubusercontent.com/91831652/213537174-0aab1f36-c22e-4a00-97d8-cbc322737840.gif)
+
 
 <!-- Height 200px -->
 <img src="GIFs/Mobile%20View.gif" alt="Mobile View" width="40%">
