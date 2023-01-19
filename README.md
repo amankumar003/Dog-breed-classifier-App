@@ -15,11 +15,15 @@ Note: This may not work, but you can see the GIF below to have an idea of the ap
 
 
 Mobile View:
+![image](https://user-images.githubusercontent.com/91831652/213536191-89cb1dcf-d187-40c1-8794-3d54ba7dcee0.png)
+
 <!-- Height 200px -->
 <img src="GIFs/Mobile%20View.gif" alt="Mobile View" width="40%">
 
 ----------
 
 PC View:
+![image](https://user-images.githubusercontent.com/91831652/213536246-666c45b3-b350-4cb2-8454-7de664e25bd9.png)
+
 
 ![](/GIFs/PC%20View.gif)
