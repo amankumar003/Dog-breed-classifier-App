@@ -24,7 +24,4 @@ Note: This may not work, but you can see the GIF below to have an idea of the ap
 ----------
 
 PC View:
-
-
-
 ![](/GIFs/PC%20View.gif)
